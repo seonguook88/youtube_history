@@ -17,4 +17,4 @@ This project lead me how to perform Data Analysis or is called Exploratory Data 
 
 
 ## Ethics on my data :
-I know clearly that this is my personal data on watching youtube and as far as i know and concerned, there will be no particular issues. And lastly, this data are all for portfolio and not for commercial or etc.
+I know clearly that this is my personal data on watching youtube and as far as I know and concerned, there will be no particular issues. And lastly, this data are all for portfolio purpose and not for commercial or etc purposes.
